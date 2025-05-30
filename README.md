@@ -18,7 +18,7 @@
   <!-- About Section -->
   <section id="about">
     <h2>About Me</h2>
-    <img src="IMG_20250530_145404_255.jpg" alt="Lakshit Mangla" />
+    <img src="IMG_20250530_145404_255.jpg." alt="Lakshit Mangla" />
     <p>Hi! I'm Lakshit Mangla, a motivated Computer Science student currently pursuing my B.Tech from NGF College of Engineering and Technology. I am passionate about Web Development, Full Stack Development, and Python programming. I enjoy working on real projects that challenge me and help me grow.</p>
   </section>
 
